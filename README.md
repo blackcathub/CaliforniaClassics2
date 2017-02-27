@@ -18,4 +18,5 @@ I also introduced a few new features that were absent in the Version 1:
 * Some other minor bugfixes and improvements were introduced to make the app run faster and smoother.
 
 You can see how the app looks like on the device on the screens below. I grayed out the area initially not visable on the screen but the user can scroll down to reveal it.
+
 <img src="https://cloud.githubusercontent.com/assets/25821037/23375374/78c13b90-fd28-11e6-8c2d-4ddadba0c953.png" align="center" width="280" > <img src="https://cloud.githubusercontent.com/assets/25821037/23375375/78c39d90-fd28-11e6-9bca-cf67280a85c6.png" align="center" width="525" >
