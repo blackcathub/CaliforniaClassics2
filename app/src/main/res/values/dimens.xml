@@ -1,0 +1,22 @@
+<resources>
+    <dimen name="img_main_h">300dp</dimen>
+    <dimen name="img_tt_h">100dp</dimen>
+    <dimen name="img_bt_h">200dp</dimen>
+    <dimen name="logo_h">180dp</dimen>
+    <dimen name="logo_m">16dp</dimen>
+    <dimen name="gal_mini_w">100dp</dimen>
+    <dimen name="gam_mini_h">73dp</dimen>
+    <dimen name="gal_mini_m">4dp</dimen>
+    <dimen name="box_border">16dp</dimen>
+    <dimen name="bullet_size_factor">50dp</dimen>
+    <dimen name="bullet_mt_starter">16dp</dimen>
+    <dimen name="bullet_mt_continue">8dp</dimen>
+    <dimen name="bullet_txt_push">8dp</dimen>
+    <dimen name="social_size_factor">64dp</dimen>
+    <dimen name="social_mt">16dp</dimen>
+    <dimen name="fscr_ms">32dp</dimen>
+    <dimen name="fscr_mt">40dp</dimen>
+    <dimen name="txt_box">14sp</dimen>
+    <dimen name="txt_bullet">14sp</dimen>
+    <dimen name="txt_bullet_small">14sp</dimen>
+</resources>
