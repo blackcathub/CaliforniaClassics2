@@ -20,3 +20,7 @@ I also introduced a few new features that were absent in the Version 1:
 You can see how the app looks like on the device on the screens below. I grayed out the area initially not visable on the screen but the user can scroll down to reveal it.
 
 <img src="https://cloud.githubusercontent.com/assets/25821037/23375374/78c13b90-fd28-11e6-8c2d-4ddadba0c953.png" align="center" width="280" > <img src="https://cloud.githubusercontent.com/assets/25821037/23375375/78c39d90-fd28-11e6-9bca-cf67280a85c6.png" align="center" width="525" >
+
+On these screens you can see how the image full screen layer looks like on the device.
+
+<img src="https://cloud.githubusercontent.com/assets/25821037/23375432/a4d6fcf6-fd28-11e6-9cfc-6958a9004cee.png" align="center" height="420" > <img src="https://cloud.githubusercontent.com/assets/25821037/23375433/a4dd9aa2-fd28-11e6-9586-22a84bc1a839.png" align="center" width="420" >
