@@ -21,6 +21,10 @@ You can see how the app looks like on the device on the screens below. I grayed 
 
 <img src="https://cloud.githubusercontent.com/assets/25821037/23375374/78c13b90-fd28-11e6-8c2d-4ddadba0c953.png" align="center" width="280" > <img src="https://cloud.githubusercontent.com/assets/25821037/23375375/78c39d90-fd28-11e6-9bca-cf67280a85c6.png" align="center" width="525" >
 
-On these screens you can see how the image full screen layer looks like on the device.
+On these screens you can see how the image full screen layer called by clicking on the gallery miniatures looks like on the device.
 
 <img src="https://cloud.githubusercontent.com/assets/25821037/23375432/a4d6fcf6-fd28-11e6-9cfc-6958a9004cee.png" align="center" height="420" > <img src="https://cloud.githubusercontent.com/assets/25821037/23375433/a4dd9aa2-fd28-11e6-9586-22a84bc1a839.png" align="center" width="420" >
+
+I also made a short demo video of the app you can check it out here:
+
+[![DEMO ON YOUTUBE](https://img.youtube.com/vi/Z6e0Rp32f9g/0.jpg)](https://www.youtube.com/watch?v=Z6e0Rp32f9g)
