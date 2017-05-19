@@ -15,13 +15,13 @@ Most significant changes would include main picture being put behind the scroll 
 
 I introduced a few new features that were absent in the Version 1:
 >* App logo that includes company name is now detatched from the main picture and moves on top of it with the rest of the content.
-* "Partner logos" are removed from the main picture and replaced with a picture gallery.
-* Picture gallery is scrollable horizontally, clicking each miniature opens a full screen view of the image on a new layer overlapping the main view of the app.
-* Java code was added to intercept back button click while full screen layer is visable and return to main view of the app.
-* 5 custom social buttons were added on the bottom distributed evenly along the bottom edge of the screen.
-* Each social button received a Java code that runs a corresponding app and displays content connected with the company this card was made for.
-* Buttons received animations and animation listeners to make them execute assigned action after the animation finishes.
-* Some other minor bugfixes and improvements were introduced to make the app run faster and smoother.
+>* "Partner logos" are removed from the main picture and replaced with a picture gallery.
+>* Picture gallery is scrollable horizontally, clicking each miniature opens a full screen view of the image on a new layer overlapping the main view of the app.
+>* Java code was added to intercept back button click while full screen layer is visable and return to main view of the app.
+>* 5 custom social buttons were added on the bottom distributed evenly along the bottom edge of the screen.
+>* Each social button received a Java code that runs a corresponding app and displays content connected with the company this card was made for.
+>* Buttons received animations and animation listeners to make them execute assigned action after the animation finishes.
+>* Some other minor bugfixes and improvements were introduced to make the app run faster and smoother.
 
 * **_DEMO VIDEO_**
 
